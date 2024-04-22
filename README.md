@@ -65,7 +65,7 @@ XX-2|
 |-2-2
 -----
 ```
-2 dominoes are marked with `-` on the empty tile, and 1 domino is marked with `|` on empty tile.
+2 dominoes are marked with `-` on the empty tile, and 1 dominoes are marked with `|` on empty tile.
 
 ## Notes
 - `gen.py` can produce puzzles with more than one valid solution if the board is large enough. See the % generation requirements.
